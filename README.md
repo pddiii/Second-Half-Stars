@@ -52,7 +52,6 @@ I utilized the variables below. I percentile ranked the batters, and pitchers se
 | Jose Quintana   | +29 Percentiles               | 20th Percentile               | 50th Percentile               |
 | Austin Gomber   | +21 Percentiles               | 26th Percentile               | 47th Percentile               |
 
-
 ## Results
 
 ### Pitchers Results
