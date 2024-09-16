@@ -39,6 +39,22 @@ I utilized the variables below. I percentile ranked the batters, and pitchers se
 
 ### Pitchers
 
+| Variable | Description                         |
+|----------|-------------------------------------|
+| K/BB+    | Strikeout-to-walk ratio plus         |
+| WPA      | Win Probability Added               |
+| WAR      | Wins Above Replacement              |
+| Clutch   | Clutch performance                  |
+| ERA-     | Earned Run Average minus            |
+| FIP-     | Fielding Independent Pitching minus |
+| AVG+     | Batting average plus                |
+| WHIP+    | Walks plus Hits per Inning Pitched plus |
+| HR/9+    | Home runs allowed per nine innings plus |
+
+## Results
+
+### Pitchers Results
+
 | Name            | Average Percentile Difference | Average Percentile (1st Half) | Average Percentile (2nd Half) |
 |-----------------|-------------------------------|-------------------------------|-------------------------------|
 | Bryce Miller    | +52 Percentiles               | 36th Percentile               | 88th Percentile               |
@@ -51,23 +67,6 @@ I utilized the variables below. I percentile ranked the batters, and pitchers se
 | Michael King    | +34 Percentiles               | 44th Percentile               | 78th Percentile               |
 | Jose Quintana   | +29 Percentiles               | 20th Percentile               | 50th Percentile               |
 | Austin Gomber   | +21 Percentiles               | 26th Percentile               | 47th Percentile               |
-
-## Results
-
-### Pitchers Results
-
-| Name            | Average Percentile Difference |
-|-----------------|-------------------------------|
-| Bryce Miller    | +52 Percentiles               |
-| Hunter Brown    | +50 Percentiles               |
-| JP Sears        | +47 Percentiles               |
-| Framber Valdez  | +46 Percentiles               |
-| Pablo López     | +41 Percentiles               |
-| Zach Eflin      | +35 Percentiles               |
-| Bailey Ober     | +35 Percentiles               |
-| Michael King    | +34 Percentiles               |
-| Jose Quintana   | +29 Percentiles               |
-| Austin Gomber   | +21 Percentiles               |
 
 ### Batters Results
 
